@@ -1,0 +1,110 @@
+<html>
+<head>
+<title>appointy</title>
+<style>
+#i2 {
+    
+    float: left;
+    width:250px;
+    height:70px;
+    margin-right:10px;
+    margin-top: 0px;
+    vertical-align:top;margin:-20px 0px
+}
+#i1 {
+  position:static;
+  float: right;
+  width:700px;
+  height:350px;
+  margin-left:50px;
+  vertical-align:middle;margin:-20px 80px
+}
+#txt {
+   font-family:Arial;
+   font-weight:bold;
+   font-size:30px;
+   margin-left:25px;
+   line-height:45px;
+ }
+#txt1 {
+   font-family:Arial;
+   
+   font-size:15px;
+   margin-left:25px;
+   line-height:25px;
+ }
+
+.head {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: right;
+}
+font{
+ word-spacing:9;
+ 
+}
+#box1 {
+  border-radius: 25px;
+  background: linear-gradient(to right, #cc0066 1%, #ff6600 100%);
+  padding: 20px; 
+  width: 150px;
+  height: 20px;
+  margin-left:25px;
+  color:white;
+  font-size:20px;
+  }
+#box2 {
+  border-radius: 25px;
+  background: linear-gradient(to right, #cc0066 1%, #ff6600 100%);
+  padding: 20px; 
+  width: 80px;
+  height: 1px;
+  margin-left:25px;
+  color:white;
+  font-size:20px;
+  }  
+ {
+border-radius: 25px;
+  background: linear-gradient(to right, #cc0066 1%, #ff6600 100%);
+  padding: 20px; 
+  width: 150px;
+  height: 20px;
+  margin-left:25px;
+  color:white;
+  font-size:20px;
+ }
+</style>
+</head>
+<body>
+<div class="head">
+<img id="i2" src="C:\Users\gkumar\Desktop\appointy\appointy.png" />
+<font>
+Home
+Customers
+Contact Us
+Enterprise
+Pricing
+Login</font>
+<font id="box2">SignUp</font>
+</font>
+
+</div>
+<p id="txt"><img id="i1" src="C:\Users\gkumar\Desktop\appointy\appointy1.jpeg" />
+
+Education scheduling software
+to reduce admin work, increase efficiency,
+and deliver better results
+</p >
+<p id="txt1">
+Save valuable teaching time with easy online appointments, class scheduling,
+student mangament,Payments, automated reminders and web conferencing !
+</p>
+
+
+<br/>
+<p id="box1">Get started now!</p>
+<br/>
+<p id="txt1">No credit card required!Our free plan is free forever.</p>
+
+</body>
+</html>
